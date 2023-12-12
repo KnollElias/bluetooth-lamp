@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KnollElias/bluetooth-lamp/issues"
   },
-  "homepage": "https://github.com/KnollElias/bluetooth-lamp#readme"
+  "homepage": "https://github.com/KnollElias/bluetooth-lamp#readme",
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
 }
