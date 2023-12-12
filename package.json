@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KnollElias/bluetooth-lamp#readme",
   "dependencies": {
+    "@abandonware/noble": "^1.9.2-23",
     "noble": "^1.9.1"
   }
 }
